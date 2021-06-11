@@ -42,7 +42,7 @@ def main() :
         
         menu()
 
-        #try para validar el numero sea un numero
+        #try para validar que  sea un numero
         try:
             op = int(input())
             
